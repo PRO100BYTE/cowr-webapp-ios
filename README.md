@@ -1,2 +1,2 @@
-# cowr-webapp-ios
-Code Writers WebApp for iOS
+# COWR-WebApp (iOS)
+Веб приложение форума Code Writers для iOS
